@@ -1,4 +1,12 @@
 # Capstone-Project-2
+## Table of contents
+* [Introduction](#introduction)
+* [Dataset](#dataset)
+* [Data Acquisition](#data acquisition)
+* [Data Cleaning](#data cleaning)
+* [Data Exploration](#data exploration)
+* [Predictive Model](#predictive model)
+
 # Introduction
 The purpose of this project was to build a machine learning model that would predict whether or not a call received by New York City 311 would be resolved on time. Incidents that are reported are given an estimate for how long they will take. 
 # Dataset
