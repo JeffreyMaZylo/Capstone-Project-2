@@ -2,7 +2,7 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [Dataset](#dataset)
-* [Data_Acquisition](#Data Acquisition)
+* [Data_Acquisition](#Data_Acquisition)
 * [Data_Cleaning](#Data Cleaning)
 * [Data_Exploration](#Data Exploration)
 * [Predictive_Model](#Predictive Model)
