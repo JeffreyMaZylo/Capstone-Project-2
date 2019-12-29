@@ -2,10 +2,10 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [Dataset](#dataset)
-* [Data Acquisition](#Data Acquisition)
-* [Data Cleaning](#Data Cleaning)
-* [Data Exploration](#Data Exploration)
-* [Predictive Model](#Predictive Model)
+* [Data_Acquisition](#Data Acquisition)
+* [Data_Cleaning](#Data Cleaning)
+* [Data_Exploration](#Data Exploration)
+* [Predictive_Model](#Predictive Model)
 
 # Introduction
 The purpose of this project was to build a machine learning model that would predict whether or not a call received by New York City 311 would be resolved on time. Incidents that are reported are given an estimate for how long they will take. 
