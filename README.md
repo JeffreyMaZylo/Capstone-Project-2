@@ -23,4 +23,5 @@ The dataset was cleaned: <br /> https://github.com/jeffreyzhangma/Capstone-Proje
 The dataset was explored: <br /> https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Exploration.ipynb 
 
 # Predictive Model
-Finally a predictive model was built: 
+Finally a predictive model was built: <br />
+https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Predictive%20Modeling.ipynb
