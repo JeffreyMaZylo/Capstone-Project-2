@@ -24,4 +24,7 @@ The dataset was explored: <br /> https://github.com/jeffreyzhangma/Capstone-Proj
 
 # Predictive Model
 Finally a predictive model was built: <br />
-https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Predictive%20Modeling.ipynb
+https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Predictive%20Modeling%20(1).ipynb
+
+# Milestone Report 2 <br />
+https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%202.pdf
