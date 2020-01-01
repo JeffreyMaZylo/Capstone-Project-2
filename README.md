@@ -6,8 +6,10 @@
 * [Data Cleaning](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Cleaning.ipynb)
 * [Data Exploration](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Exploration.ipynb)
 * [Predictive Model](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Predictive%20Modeling.ipynb)
+* [Milestone Report 1](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%201.pdf)
 * [Milestone Report 2](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%202.pdf)
 * [Final Submission](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf)
+* [Capstone Project 2 slides](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202.pptx)
 
 # Introduction
 The purpose of this project was to build a machine learning model that would predict whether or not a call received by New York City 311 would be resolved on time. Incidents that are reported are given an estimate for how long they will take. 
@@ -28,6 +30,9 @@ The dataset was explored: <br /> [Data Exploration](https://github.com/jeffreyzh
 Finally a predictive model was built: <br />
 [Predictive Model](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Predictive%20Modeling.ipynb)
 
+# Milestone Report 1 <br />
+[Milestone Report 1](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%201.pdf)
+
 # Milestone Report 2 
 Milestone Report 2 was written: <br />
 [Milestone Report 2](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%202.pdf)
@@ -35,3 +40,6 @@ Milestone Report 2 was written: <br />
 # Final Submission 
 Final submission of Capstone Project 2: <br />
 [Final Submission](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf)
+
+# Powerpoint Slides for presentation: <br />
+[Capstone Project 2 slides](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202.pptx)
