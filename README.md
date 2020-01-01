@@ -9,7 +9,7 @@
 * [Milestone Report 1](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%201.pdf)
 * [Milestone Report 2](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%202.pdf)
 * [Final Submission](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf)
-* [Capstone Project 2 slides](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202.pptx)
+* [Capstone Project 2 slides](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Slides.pdf)
 
 # Introduction
 The purpose of this project was to build a machine learning model that would predict whether or not a call received by New York City 311 would be resolved on time. Incidents that are reported are given an estimate for how long they will take. 
@@ -44,4 +44,4 @@ Final submission of Capstone Project 2: <br />
 
 # Powerpoint Slides for presentation: 
 Presentation slides for Capstone Project 2: <br />
-[Capstone Project 2 slides](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202.pptx)
+[Capstone Project 2 slides](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Slides.pdf)
