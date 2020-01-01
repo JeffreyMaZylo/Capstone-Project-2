@@ -1,12 +1,12 @@
 # Capstone-Project-2
 ## Table of contents
 * [Introduction](#introduction)
-* [Dataset](#dataset)
-* [Data Acquisition](#Data_Acquisition)
-* [Data Cleaning](#Data_Cleaning)
+* [Dataset](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+* [Data Acquisition](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Acquisition.ipynb)
+* [Data Cleaning](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Cleaning.ipynb)
 * [Data Exploration](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Exploration.ipynb)
-* [Predictive Model](#Predictive_Model)
-* [Milestone Report 2](#Milestone_Report_2)
+* [Predictive Model](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Predictive%20Modeling.ipynb)
+* [Milestone Report 2](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%202.pdf)
 * [Final Submission](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf)
 
 # Introduction
@@ -16,20 +16,22 @@ The data was taken from the NYC Open Data website at this link: <br />
 <https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9> 
 # Data Acquisition
 The dataset was acquired: <br />
-https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Acquisition.ipynb
+[Data Acquisition](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Acquisition.ipynb)
 
 # Data Cleaning
-The dataset was cleaned: <br /> https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Cleaning.ipynb 
+The dataset was cleaned: <br /> [Data Cleaning](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Cleaning.ipynb)
 
 # Data Exploration
 The dataset was explored: <br /> [Data Exploration](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Data%20Exploration.ipynb)
 
 # Predictive Model
 Finally a predictive model was built: <br />
-https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Predictive%20Modeling.ipynb
+[Predictive Model](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Predictive%20Modeling.ipynb)
 
-# Milestone Report 2 <br />
+# Milestone Report 2 
+Milestone Report 2: <br />
 https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%202.pdf
 
-# Final Submission <br />
+# Final Submission 
+Final submission: <br />
 https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf
