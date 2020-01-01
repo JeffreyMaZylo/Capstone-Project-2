@@ -30,7 +30,8 @@ The dataset was explored: <br /> [Data Exploration](https://github.com/jeffreyzh
 Finally a predictive model was built: <br />
 [Predictive Model](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202%20Predictive%20Modeling.ipynb)
 
-# Milestone Report 1 <br />
+# Milestone Report 1 
+The first milestone report for Springboard Capstone Project 2 <br />
 [Milestone Report 1](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%201.pdf)
 
 # Milestone Report 2 
@@ -41,5 +42,6 @@ Milestone Report 2 was written: <br />
 Final submission of Capstone Project 2: <br />
 [Final Submission](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf)
 
-# Powerpoint Slides for presentation: <br />
+# Powerpoint Slides for presentation: 
+Presentation slides for Capstone Project 2: <br />
 [Capstone Project 2 slides](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202.pptx)
