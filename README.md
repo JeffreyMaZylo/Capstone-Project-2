@@ -30,8 +30,8 @@ Finally a predictive model was built: <br />
 
 # Milestone Report 2 
 Milestone Report 2: <br />
-https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%202.pdf
+[Milestone Report 2](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/Capstone%20Project%202_%20Milestone%20Report%202.pdf)
 
 # Final Submission 
 Final submission: <br />
-https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf
+[Final Submission](https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf)
