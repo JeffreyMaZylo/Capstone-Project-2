@@ -7,7 +7,7 @@
 * [Data Exploration](#Data_Exploration)
 * [Predictive Model](#Predictive_Model)
 * [Milestone Report 2](#Milestone_Report_2)
-* [Final Submission](#https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf)
+* [https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf](#https://github.com/jeffreyzhangma/Capstone-Project-2/blob/master/_Capstone%20Project%202_%20Quality%20Measurement%20of%20NYC%20311%20Calls.pdf)
 
 # Introduction
 The purpose of this project was to build a machine learning model that would predict whether or not a call received by New York City 311 would be resolved on time. Incidents that are reported are given an estimate for how long they will take. 
